@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- Chinmai Mandala 
+- Chinmai Mandala
 
 ## What is Working
 
@@ -49,3 +49,5 @@ gleam run -- 50 full gossip
 - Imperfect 3D offers performance between 3D and Full topologies, showing that adding random links improves convergence.
 
 Refer to `project2.pdf` for detailed plots and experimental analysis.
+
+**GitHub Repository:** [https://github.com/Chinmai06/Gossip-Protocol](https://github.com/Chinmai06/Gossip-Protocol)
